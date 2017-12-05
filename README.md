@@ -1,4 +1,4 @@
 # cc-js
 highlight for js/flow/jsx with emacs
 
-![Import](/import.jpg)
+![Import](/import.png)
