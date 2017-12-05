@@ -6,3 +6,6 @@ highlight for js/flow/jsx with emacs
 
 #### Export
 ![Export](/export.png)
+
+#### Assignin
+![Assign](/assign.png)
