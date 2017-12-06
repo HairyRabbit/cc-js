@@ -9,3 +9,9 @@ highlight for js/flow/jsx with emacs
 
 #### Assignin
 ![Assign](/assign.png)
+
+#### Function
+![Function](/function.png)
+
+#### Class
+![Class](/class.png)
